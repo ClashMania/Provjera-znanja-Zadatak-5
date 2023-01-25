@@ -15,7 +15,7 @@ using System.Threading.Tasks;
 //koji će dodijeliti vrijednosti proslijeđenih argumenata naslijeđenim varijablama članicama
 //Definirajte dva objekta Zemlja i Mjesec tipova Planet i Satelit.
 
-namespace Nasljedivanje1
+namespace Zadatak_5
 {
     class NebeskoTijelo
     {
