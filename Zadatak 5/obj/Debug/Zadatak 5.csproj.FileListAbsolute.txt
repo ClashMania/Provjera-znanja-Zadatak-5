@@ -1,0 +1,8 @@
+C:\Users\ucenik\Desktop\Provjera Znanja 4d\Zadatak 5\bin\Debug\Zadatak 5.exe.config
+C:\Users\ucenik\Desktop\Provjera Znanja 4d\Zadatak 5\bin\Debug\Zadatak 5.exe
+C:\Users\ucenik\Desktop\Provjera Znanja 4d\Zadatak 5\bin\Debug\Zadatak 5.pdb
+C:\Users\ucenik\Desktop\Provjera Znanja 4d\Zadatak 5\obj\Debug\Zadatak 5.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\Provjera Znanja 4d\Zadatak 5\obj\Debug\Zadatak 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\Provjera Znanja 4d\Zadatak 5\obj\Debug\Zadatak 5.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\Provjera Znanja 4d\Zadatak 5\obj\Debug\Zadatak 5.exe
+C:\Users\ucenik\Desktop\Provjera Znanja 4d\Zadatak 5\obj\Debug\Zadatak 5.pdb
